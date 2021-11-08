@@ -27,8 +27,8 @@ $data_pasien = $con->show();
                     <tr>
                         <th>No</th>
                         <th>nama</th>
-                        <th>phone</th>
                         <th>email</th>
+                        <th>phone</th>
                         <th>adress</th>
                         <th>Opsi</th>
                     </tr>
